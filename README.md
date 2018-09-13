@@ -1,3 +1,8 @@
+Hello,
+
+I have used Create-react-app boilerplate to setup the project.
+I have used antd design which has lot of components designed to meet everyday requirements.
+
 This is a product Catalogue web app created in react with mobx by which user can browse different products, add to cart and checkout(fake checkout as of now).
 
 
