@@ -2,8 +2,10 @@ This is a product Catalogue web app created in react with mobx by which user can
 
 
 To run this APP
-2.npm install
-3.npm start
+
+
+1.npm install
+2.npm start
 
 This  will open the app on localhost:3000
 
